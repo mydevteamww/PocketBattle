@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Bed Rock Entertainments",
+  "description": "ChronoBit Studios",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pocket Battle Royale V1",
+  "name": "Pocket Batle Royale",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pocket Battle Royale V1",
+  "short_name": "Pocket Batle Royale",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Pocket Battle Royale V1",
+      "name": "Pocket Batle Royale",
       "url": "",
       "description": ""
     }
